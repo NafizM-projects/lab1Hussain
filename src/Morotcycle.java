@@ -1,5 +1,4 @@
-public class Morotcycle {
+public class Motorcycle {
     private String color;
-
 
 }
