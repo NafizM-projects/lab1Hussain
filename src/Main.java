@@ -1,4 +1,18 @@
+/**
+ * course: IST 242
+ * Author: Nafiz Hussain
+ * Date developed:
+ * Last date changed:
+ *
+ * Main class to demonstrate Motorcycle objects.
+ * Creates three motorcycles and shows their details.
+ */
 public class Main {
+    /**
+     * Main method runs the program.
+     * Creates motorcycles and displays their information.
+     * @param args Not used
+     */
     public static void main(String[] args) {
         // Create motorcycles
         Motorcycle bike1 = new Motorcycle("Red", 250.0, Material.ALUMINUM,
