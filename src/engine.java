@@ -1,4 +1,9 @@
 /**
+ * course: IST 242
+ *  * Author: Nafiz Hussain
+ *  * Date developed:
+ *  * Last date changed:
+ *
  * Represents an engine for a motorcycle.
  * Stores the type of engine.
  */

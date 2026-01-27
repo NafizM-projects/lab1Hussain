@@ -75,6 +75,11 @@ class Motorcycle {
     }
 
     /**
+     * course: IST 242
+     *  * Author: Nafiz Hussain
+     *  * Date developed:
+     *  * Last date changed:
+     *
      * Gets the type of engine in the motorcycle.
      *
      * @return The engine type as a String

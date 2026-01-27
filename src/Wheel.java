@@ -1,4 +1,9 @@
 /**
+ * course: IST 242
+ *  * Author: Nafiz Hussain
+ *  * Date developed:
+ *  * Last date changed:
+ *
  * Represents a wheel for a motorcycle.
  * Stores the wheel size in inches.
  */

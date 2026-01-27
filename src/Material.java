@@ -1,4 +1,9 @@
 /**
+ * course: IST 242
+ *  * Author: Nafiz Hussain
+ *  * Date developed:
+ *  * Last date changed:
+ *
  * Represents different materials used for motorcycle frames.
  * Defines common frame materials with varying properties.
  */
